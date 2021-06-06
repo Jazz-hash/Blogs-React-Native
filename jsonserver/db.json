@@ -1,0 +1,19 @@
+{
+  "blogposts": [
+    {
+      "title": "New Post",
+      "content": "dsadadasdsadasd",
+      "id": 2
+    },
+    {
+      "title": "dasd",
+      "content": "dsad",
+      "id": 3
+    },
+    {
+      "title": "New Post 3",
+      "content": "dasdasdsdad",
+      "id": 4
+    }
+  ]
+}
